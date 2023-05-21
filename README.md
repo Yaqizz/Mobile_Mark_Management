@@ -3,10 +3,17 @@ Welcome to the Mark Management Andriod Application!
 
 This application is designed to help you keep track of the courses you have taken during your academic journey at UW (University of Waterloo). With this application, you can easily manage your course information, perform various operations like adding, modifying, and removing course details, and gain valuable insights into your grades through visualizations, filtering, and sorting options.
 
+![Alt Text](list.png)
+
 ## Features
 **Course Management:** The application provides a user-friendly interface to add new courses, update existing course information, and remove courses from your record. You can easily input essential details such as course code, title, credit hours, and the corresponding grade for each course.
 
+![Alt Text](add.png)
+![Alt Text](update.png)
+
 **Filtering and Sorting:** Quickly find and organize your course records using filtering and sorting options. You can filter courses based on course code. Additionally, you can sort your courses in ascending or descending order based on various attributes like course code, term, or grade.
+
+![Alt Text](filter&sort.png)
 
 ## Setup
 macOS 12.6
