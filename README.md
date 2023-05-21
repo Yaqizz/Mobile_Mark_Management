@@ -1,6 +1,7 @@
 # Mobile Mark Management
 Welcome to the Mark Management Andriod Application!          
 
+## Introduction
 This application is designed to help you keep track of the courses you have taken during your academic journey at UW (University of Waterloo). With this application, you can easily manage your course information, perform various operations like adding, modifying, and removing course details, and gain valuable insights into your grades through visualizations, filtering, and sorting options.
 
 ![Alt Text](list.png)
