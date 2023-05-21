@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">a4-basic</string>
+    <string name="FilterName">filter</string>
+    <string-array name="filter">
+        <item>All Courses</item>
+        <item>CS Only</item>
+        <item>Math Only</item>
+        <item>Other Only</item>
+    </string-array>
+    <string name="SortName">sort</string>
+    <string-array name="sort">
+        <item>By Course Code</item>
+        <item>By Term</item>
+        <item>By Mark</item>
+    </string-array>
+    <string name="add_button">add course</string>
+    <string name="TermName">term</string>
+    <string-array name="term">
+        <item>F20</item>
+        <item>W21</item>
+        <item>S21</item>
+        <item>F21</item>
+        <item>W22</item>
+        <item>S22</item>
+        <item>F22</item>
+        <item>W23</item>
+        <item>S23</item>
+        <item>F23</item>
+    </string-array>
+    <string name="cancel_button">Cancel</string>
+    <string name="create_button">Create</string>
+    <string name="delete_button">Delete</string>
+    <string name="update_button">Update</string>
+    <string name="submit_button">Submit</string>
+</resources>
