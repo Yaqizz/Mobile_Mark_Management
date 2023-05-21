@@ -19,7 +19,7 @@ This application is designed to help you keep track of the courses you have take
 ## Setup
 Ensure that your system is running macOS 12.6 or a compatible operating system.
 
-Install IntelliJ IDEA 2022.3.1 (Ultimate Edition) as your preferred IDE.  You can download IntelliJ IDEA from the JetBrains website and follow the installation instructions specific to your operating system.
+Install IntelliJ IDEA 2022.3.1 (Ultimate Edition) as your preferred Integrated Development Environment (IDE).
 
 Install the Android SDK and set up the required Android API level.  Since the Mark Management Application utilizes Android features, you need to install the appropriate Android SDK version.  In this case, the application targets Android API 33.
 
