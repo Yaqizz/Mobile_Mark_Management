@@ -16,10 +16,10 @@ This application is designed to help you keep track of the courses you have take
 ![Alt Text](filter&sort.png)
 
 ## Setup
-macOS 12.6
+Ensure that your system is running macOS 12.6 or a compatible operating system.
 
-IntelliJ IDEA 2022.3.1 (Ultimate Edition)
+Install IntelliJ IDEA 2022.3.1 (Ultimate Edition) as your preferred IDE.  You can download IntelliJ IDEA from the JetBrains website and follow the installation instructions specific to your operating system.
 
-Android API 33
+Install the Android SDK and set up the required Android API level.  Since the Mark Management Application utilizes Android features, you need to install the appropriate Android SDK version.  In this case, the application targets Android API 33.
 
-Pixel 4a
+To run and test the Mark Management Application, you need an Android device emulator or a physical device.  For example, you can use the Pixel 4a device for testing.  Set up the device emulator using the Android Virtual Device (AVD) Manager in IntelliJ IDEA or connect your physical device via USB debugging.
